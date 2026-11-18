@@ -1,2 +1,2 @@
 # Pocket-planner-
-Pocket planner personal project 
+Pocket planner personal planning app
